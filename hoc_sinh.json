@@ -1,0 +1,170 @@
+{
+    "khoi_6": {
+        "6-01": [
+            {
+                "mahocsinh": 1001,
+                "hotenhocsinh": "Nguyễn Văn An",
+                "quequan": "10, Hà Nội",
+                "sodt": "0901000001"
+            },
+            {
+                "mahocsinh": 1002,
+                "hotenhocsinh": "Trần Thị Bình",
+                "quequan": "25, Hải Phòng",
+                "sodt": "0901000002"
+            },
+            {
+                "mahocsinh": 1003,
+                "hotenhocsinh": "Lê Văn Cường",
+                "quequan": "30, Đà Nẵng",
+                "sodt": "0901000003"
+            }
+        ],
+        "6-02": [
+            {
+                "mahocsinh": 1004,
+                "hotenhocsinh": "Phạm Thị Duyên",
+                "quequan": "15, Huế",
+                "sodt": "0901000004"
+            },
+            {
+                "mahocsinh": 1005,
+                "hotenhocsinh": "Hoàng Minh Đức",
+                "quequan": "20, Quảng Nam",
+                "sodt": "0901000005"
+            },
+            {
+                "mahocsinh": 1006,
+                "hotenhocsinh": "Võ Thị Giang",
+                "quequan": "05, Quảng Bình",
+                "sodt": "0901000006"
+            }
+        ]
+    },
+    "khoi_7": {
+        "7-01": [
+            {
+                "mahocsinh": 1007,
+                "hotenhocsinh": "Đặng Văn Hùng",
+                "quequan": "12, Nghệ An",
+                "sodt": "0901000007"
+            },
+            {
+                "mahocsinh": 1008,
+                "hotenhocsinh": "Ngô Thị Kim",
+                "quequan": "28, Thanh Hóa",
+                "sodt": "0901000008"
+            },
+            {
+                "mahocsinh": 1009,
+                "hotenhocsinh": "Bùi Văn Long",
+                "quequan": "07, Hà Tĩnh",
+                "sodt": "0901000009"
+            }
+        ],
+        "7-02": [
+            {
+                "mahocsinh": 1010,
+                "hotenhocsinh": "Dương Thị Mai",
+                "quequan": "18, Thái Bình",
+                "sodt": "0901000010"
+            },
+            {
+                "mahocsinh": 1011,
+                "hotenhocsinh": "Trần Văn Nam",
+                "quequan": "22, Nam Định",
+                "sodt": "0901000011"
+            },
+            {
+                "mahocsinh": 1012,
+                "hotenhocsinh": "Lý Thị Oanh",
+                "quequan": "03, Hưng Yên",
+                "sodt": "0901000012"
+            }
+        ]
+    },
+    "khoi_8": {
+        "8-01": [
+            {
+                "mahocsinh": 1013,
+                "hotenhocsinh": "Phạm Văn Quang",
+                "quequan": "35, Phú Thọ",
+                "sodt": "0901000013"
+            },
+            {
+                "mahocsinh": 1014,
+                "hotenhocsinh": "Hoàng Thị Thảo",
+                "quequan": "40, Vĩnh Phúc",
+                "sodt": "0901000014"
+            },
+            {
+                "mahocsinh": 1015,
+                "hotenhocsinh": "Vũ Văn Tùng",
+                "quequan": "09, Bắc Ninh",
+                "sodt": "0901000015"
+            }
+        ],
+        "8-02": [
+            {
+                "mahocsinh": 1016,
+                "hotenhocsinh": "Nguyễn Thị Uyên",
+                "quequan": "11, Hải Dương",
+                "sodt": "0901000016"
+            },
+            {
+                "mahocsinh": 1017,
+                "hotenhocsinh": "Đỗ Văn Vinh",
+                "quequan": "24, Thái Nguyên",
+                "sodt": "0901000017"
+            },
+            {
+                "mahocsinh": 1018,
+                "hotenhocsinh": "Lê Thị Xuyến",
+                "quequan": "02, Bắc Giang",
+                "sodt": "0901000018"
+            }
+        ]
+    },
+    "khoi_9": {
+        "9-01": [
+            {
+                "mahocsinh": 1019,
+                "hotenhocsinh": "Trần Văn Yến",
+                "quequan": "29, Lạng Sơn",
+                "sodt": "0901000019"
+            },
+            {
+                "mahocsinh": 1020,
+                "hotenhocsinh": "Phạm Thị Yến",
+                "quequan": "33, Cao Bằng",
+                "sodt": "0901000020"
+            },
+            {
+                "mahocsinh": 1021,
+                "hotenhocsinh": "Nguyễn Văn Z",
+                "quequan": "08, Tuyên Quang",
+                "sodt": "0901000021"
+            }
+        ],
+        "9-02": [
+            {
+                "mahocsinh": 1022,
+                "hotenhocsinh": "Hoàng Thị A'",
+                "quequan": "14, Lai Châu",
+                "sodt": "0901000022"
+            },
+            {
+                "mahocsinh": 1023,
+                "hotenhocsinh": "Võ Văn B'",
+                "quequan": "19, Điện Biên",
+                "sodt": "0901000023"
+            },
+            {
+                "mahocsinh": 1024,
+                "hotenhocsinh": "Đặng Thị C'",
+                "quequan": "06, Sơn La",
+                "sodt": "0901000024"
+            }
+        ]
+    }
+}

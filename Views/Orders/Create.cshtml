@@ -1,0 +1,43 @@
+@model OrderManagementApp.Models.ViewModels.OrderCreateViewModel
+
+<h2>Thêm đơn hàng</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label>Số đơn hàng</label>
+        <input asp-for="OrderNumber" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Tên khách hàng</label>
+        <input asp-for="CustomerName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="CustomerEmail" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Sản phẩm</label>
+        <select asp-for="ProductId" class="form-control">
+            @foreach (var p in ViewBag.Products)
+            {
+                <option value="@p.Id">@p.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Số lượng</label>
+        <input asp-for="Quantity" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Ngày đặt</label>
+        <input asp-for="OrderDate" type="date" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>
